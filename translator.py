@@ -1,3 +1,4 @@
+# Translator program using pypi translate
 from translate import Translator
 
 print("ENGLISH TRANSLATOR")
